@@ -1,5 +1,5 @@
 
-public class Assignment2 {
+public class CompilerMain {
 	public static void main(String args[]) {
 		if(args.length == 0) {
 			System.out.println("Requires .ada file");
